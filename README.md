@@ -37,4 +37,5 @@ This project is licensed under the **MIT License**.
 
 ## ☕ Support
 If you find this tool useful, consider supporting the project:
+https://ko-fi.com/s/71b17bc985
 
